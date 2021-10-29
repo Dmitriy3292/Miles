@@ -8,5 +8,6 @@ public class Main {
 
         System.out.println("Ваш бонус = " + miles);
 
+        int result = 450;
     }
 }
